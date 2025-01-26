@@ -9,7 +9,7 @@ export const productSlice = createSlice({
          {
                     id: 1,
                     product_name: "jam",
-                    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta dolorum libero fugit eveniet officiis repudiandae at perferendis accusantium velit vero.",
+                    description: "ini adalah jam yang sangat lucu",
                     stock: 20,
                     price: 2000000,
                     product_type: "jam",
@@ -18,7 +18,7 @@ export const productSlice = createSlice({
                 {
                     id: 2,
                     product_name: "mangkok",
-                    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta dolorum libero fugit eveniet officiis repudiandae at perferendis accusantium velit vero.",
+                    description: "ini adalah mangkok yang sangat lucu",
                     stock: 20,
                     price: 1000000,
                     product_type: "mangkok",
@@ -27,7 +27,7 @@ export const productSlice = createSlice({
                 {
                     id: 3,
                     product_name: "tas",
-                    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta dolorum libero fugit eveniet officiis repudiandae at perferendis accusantium velit vero.",
+                    description: "ini adalah tas yang sangat lucu",
                     stock: 20,
                     price: 10000000,
                     product_type: "tas",
